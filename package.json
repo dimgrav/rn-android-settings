@@ -1,0 +1,30 @@
+{
+  "name": "rn-android-settings",
+  "version": "1.0.1",
+  "description": "Native module for launching Android device settings from React Native",
+  "main": "index.js",
+  "types": "module.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimgrav/rn-android-settings.git"
+  },
+  "files": [
+    "android/src",
+    "android/build.gradle",
+    "js",
+    "index.js",
+    "module.d.ts"
+  ],
+  "keywords": [
+    "rn",
+    "react-native",
+    "android",
+    "settings"
+  ],
+  "author": "Dimitris Gravanis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimgrav/rn-android-settings/issues"
+  },
+  "homepage": "https://github.com/dimgrav/rn-android-settings#readme"
+}

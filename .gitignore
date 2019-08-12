@@ -1,0 +1,12 @@
+# IDE
+.vscode
+.idea
+
+# MacOS
+.DS_Store
+
+# Android
+android/.classpath
+android/.gradle/
+android/.settings/
+android/.project

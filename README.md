@@ -6,6 +6,8 @@ Native module for launching Android device settings from React Native.
 
 ## Install
 
+[![npm version](https://badge.fury.io/js/rn-android-settings.svg)](https://badge.fury.io/js/rn-android-settings)
+
 With npm:
 
 ```
